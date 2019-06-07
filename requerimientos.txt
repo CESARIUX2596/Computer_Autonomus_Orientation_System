@@ -1,0 +1,10 @@
+Python 3.6.7
+Cuda v.10.0
+cuDNN v.7.4.2
+Tensorflow v.1.13
+Keras 2.2.4
+Grand Theft Auto V
+DeepDrive Simulator
+Numpy 1.16.2
+CV2 3.4.0
+Win32 API
